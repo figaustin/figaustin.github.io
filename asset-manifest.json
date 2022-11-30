@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.6997136e.css",
-    "main.js": "/static/js/main.52dfd359.js",
+    "main.css": "/static/css/main.516e9bee.css",
+    "main.js": "/static/js/main.35a60c76.js",
     "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
     "static/media/Osvaldo Figueroa Resume.pdf": "/static/media/Osvaldo Figueroa Resume.c3ba40f4e9d0d46245d4.pdf",
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
-    "main.6997136e.css.map": "/static/css/main.6997136e.css.map",
-    "main.52dfd359.js.map": "/static/js/main.52dfd359.js.map",
+    "main.516e9bee.css.map": "/static/css/main.516e9bee.css.map",
+    "main.35a60c76.js.map": "/static/js/main.35a60c76.js.map",
     "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6997136e.css",
-    "static/js/main.52dfd359.js"
+    "static/css/main.516e9bee.css",
+    "static/js/main.35a60c76.js"
   ]
 }
